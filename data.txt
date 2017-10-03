@@ -1,0 +1,3 @@
+Name: Felix
+Age: 40
+Favourite colour: Red
